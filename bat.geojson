@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "type": "Ecole", "nom": "Ecole Henri Lemaitre" }, "geometry": { "type": "Point", "coordinates": [ 3.523928, 50.352902 ] } }
+,
+{ "type": "Feature", "properties": { "id": 1, "type": "Ecole", "nom": "Ecole Cariot" }, "geometry": { "type": "Point", "coordinates": [ 3.519287, 50.360314 ] } }
+,
+{ "type": "Feature", "properties": { "id": 2, "type": "administratif", "nom": "Centre Technique Mairie" }, "geometry": { "type": "Point", "coordinates": [ 3.543575, 50.373100 ] } }
+,
+{ "type": "Feature", "properties": { "id": 3, "type": "administratif", "nom": "Cadre de vie" }, "geometry": { "type": "Point", "coordinates": [ 3.533109, 50.371288 ] } }
+,
+{ "type": "Feature", "properties": { "id": 4, "type": "administratif", "nom": "Mairie" }, "geometry": { "type": "Point", "coordinates": [ 3.524121, 50.357812 ] } }
+
+]
+}
